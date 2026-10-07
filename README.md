@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend ve backend web geliştirme süreçlerinde deneyimli bir geliştiriciyim. PHP, WordPress, React, Next.js ve TypeScript ile kurumsal web siteleri, özel yönetim panelleri ve web uygulamaları geliştiriyorum. SEO, performans optimizasyonu, veritabanı yönetimi ve sunucu tarafındaki yayın süreçlerinde de aktif olarak çalışıyorum.
+I am a developer with experience in front-end and back-end web development. I develop corporate websites, custom admin panels, and web applications using PHP, WordPress, React, Next.js, and TypeScript. I am also actively involved in SEO, performance optimization, database management, and server-side deployment processes.
 
 
 ## 🌐 Socials:
